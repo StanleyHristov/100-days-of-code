@@ -36,7 +36,7 @@ placeholder = ''
 for i in range(len(word)):
     placeholder += '_'
 lives = 8
-print(word)
+#print(word)
 new_list = list(word)
 
 print(placeholder)
