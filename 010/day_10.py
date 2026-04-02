@@ -19,7 +19,7 @@ no_done = True
 
 while no_done:
     num1 = input("What is your first number?")
-    op = input("What operation d you want. +, -, * . /")
+    op = input("What operation d you want. +, -, * , /")
     num2 = input("What is your second number?")
     print(calc(num1 , op , num2))
     
