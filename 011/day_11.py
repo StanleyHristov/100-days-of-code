@@ -1,5 +1,5 @@
 import random
-import art
+
 
 
 def deal_card():
@@ -49,7 +49,7 @@ def compare(user_score, computer_score):
 
 
 def play_game():
-    print(art.logo)
+    
     print("Welcome to Blackjack!")
 
     user_cards = []
